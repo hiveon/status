@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/the.hiveos.farm.ico",
     "slug": "hiveos-farm",
     "status": "up",
-    "uptime": "83.85%",
+    "uptime": "84.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.85%",
-    "uptimeMonth": "83.85%",
-    "uptimeYear": "83.85%",
-    "time": 1028,
-    "timeDay": 1040,
-    "timeWeek": 1028,
-    "timeMonth": 1028,
-    "timeYear": 1028,
+    "uptimeWeek": "84.11%",
+    "uptimeMonth": "84.11%",
+    "uptimeYear": "84.11%",
+    "time": 1057,
+    "timeDay": 1076,
+    "timeWeek": 1057,
+    "timeMonth": 1057,
+    "timeYear": 1057,
     "dailyMinutesDown": {
       "2025-02-09": 20
     }
@@ -24,19 +24,19 @@
     "url": "https://api2.hiveos.farm/api/v2/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api2.hiveos.farm.ico",
     "slug": "hiveos-farm-api",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 445,
-    "timeDay": 468,
-    "timeWeek": 445,
-    "timeMonth": 445,
-    "timeYear": 445,
+    "time": 442,
+    "timeDay": 464,
+    "timeWeek": 442,
+    "timeMonth": 442,
+    "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-02-10": 159
+      "2025-02-10": 162
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 277,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "time": 376,
+    "timeDay": 276,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {}
   }
 ]
