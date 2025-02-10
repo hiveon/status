@@ -24,8 +24,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: hiveon.com
+      href: https://hiveon.com
 
 workflowSchedule:
   graphs: "0 0 * * *"
