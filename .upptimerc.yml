@@ -24,7 +24,7 @@ status-website:
   introMessage: Status page for the Hiveon services
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: hiveon.com
       href: https://www.hiveon.com
 
