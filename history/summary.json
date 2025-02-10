@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/the.hiveos.farm.ico",
     "slug": "hiveos-farm",
     "status": "up",
-    "uptime": "81.44%",
+    "uptime": "82.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.44%",
-    "uptimeMonth": "81.44%",
-    "uptimeYear": "81.44%",
+    "uptimeWeek": "82.12%",
+    "uptimeMonth": "82.12%",
+    "uptimeYear": "82.12%",
     "time": 1035,
     "timeDay": 1050,
     "timeWeek": 1035,
@@ -36,7 +36,7 @@
     "timeMonth": 452,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2025-02-10": 143
+      "2025-02-10": 147
     }
   },
   {
