@@ -26,7 +26,7 @@ status-website:
     - title: Status
       href: /status
     - title: hiveon.com
-      href: https://www.hiveon.com
+      href: https://hiveon.com
 
 workflowSchedule:
   graphs: "0 0 * * *"
