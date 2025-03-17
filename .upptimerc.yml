@@ -14,7 +14,42 @@ sites:
     url: https://hiveon.net
   - name: Pool Health
     url: https://hiveon.net/api/v1/pool/health
-
+  - name: btc.hiveon.com:8888
+    check: "tcp-ping"
+    url: btc.hiveon.com
+    port: 8888
+  - name: btc.hiveon.com:4444
+    check: "tcp-ping"
+    url: btc.hiveon.com
+    port: 4444
+  - name: btc.hiveon.com:20443
+    check: "tcp-ping"
+    url: btc.hiveon.com
+    port: 20443
+  - name: rvn.hiveon.com:8888
+    check: "tcp-ping"
+    url: rvn.hiveon.com
+    port: 8888
+  - name: rvn.hiveon.com:9999
+    check: "tcp-ping"
+    url: rvn.hiveon.com
+    port: 9999
+  - name: rvn.hiveon.com:7777
+    check: "tcp-ping"
+    url: rvn.hiveon.com
+    port: 7777
+  - name: etc.hiveon.com:8888
+    check: "tcp-ping"
+    url: etc.hiveon.com
+    port: 8888
+  - name: etc.hiveon.com:4444
+    check: "tcp-ping"
+    url: etc.hiveon.com
+    port: 4444
+  - name: etc.hiveon.com:20443
+    check: "tcp-ping"
+    url: etc.hiveon.com
+    port: 20443
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
