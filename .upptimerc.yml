@@ -16,6 +16,16 @@ sites:
     url: https://hiveon.com
   - name: hiveon.energy site
     url: https://hiveon.energy
+  - name: the.hiveos.farm API
+    url: https://the.hiveos.farm/api/oauth/userinfo
+    headers:
+      - "Authorization: Bearer $IDP_TOKEN"
+      - "Content-Type: application/json"
+  - name: hiveon.net API
+    url: http://hiveon.net/api/oauth/userinfo
+    headers:
+      - "Authorization: Bearer $IDP_TOKEN"
+      - "Content-Type: application/json"
   - name: Pool Health
     url: https://hiveon.net/api/v1/pool/health
   - name: btc.hiveon.com:8888
