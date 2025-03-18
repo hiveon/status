@@ -119,11 +119,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiveon.net.ico",
     "slug": "hiveon-net-api",
     "status": "down",
-    "uptime": "4.86%",
-    "uptimeDay": "4.86%",
-    "uptimeWeek": "4.86%",
-    "uptimeMonth": "4.86%",
-    "uptimeYear": "4.86%",
+    "uptime": "2.77%",
+    "uptimeDay": "2.77%",
+    "uptimeWeek": "2.77%",
+    "uptimeMonth": "2.77%",
+    "uptimeYear": "2.77%",
     "time": 210,
     "timeDay": 210,
     "timeWeek": 210,
@@ -150,7 +150,7 @@
     "timeMonth": 180,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-03-18": 676,
+      "2025-03-18": 677,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -240,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 676,
+      "2025-03-18": 677,
       "2025-03-17": 607
     }
   },
