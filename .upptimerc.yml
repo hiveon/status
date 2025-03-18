@@ -12,6 +12,8 @@ sites:
       - the3line
   - name: hiveon.net site
     url: https://hiveon.net
+  - name: hiveon.com site
+    url: https://hiveon.com
   - name: Pool Health
     url: https://hiveon.net/api/v1/pool/health
   - name: btc.hiveon.com:8888
