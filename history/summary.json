@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 395
+      "2025-03-18": 404
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 179,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-03-18": 1071,
+      "2025-03-18": 1080,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -152,19 +152,19 @@
     "url": "btc.hiveon.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "btc-hiveon-com-8888",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 113,
-    "timeDay": 117,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 118,
+    "timeDay": 122,
+    "timeWeek": 118,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-03-18": 0
+      "2025-03-18": 9
     }
   },
   {
@@ -172,19 +172,19 @@
     "url": "btc.hiveon.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "btc-hiveon-com-4444",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 113,
-    "timeDay": 117,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 118,
+    "timeDay": 122,
+    "timeWeek": 118,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-03-18": 0
+      "2025-03-18": 9
     }
   },
   {
@@ -204,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 1071,
+      "2025-03-18": 1080,
       "2025-03-17": 607
     }
   },
