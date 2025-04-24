@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-24": 34,
+      "2025-04-24": 334,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -102,9 +102,9 @@
     "url": "https://hiveon.com",
     "icon": "https://icons.duckduckgo.com/ip3/hiveon.com.ico",
     "slug": "hiveon-com-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +113,9 @@
     "timeWeek": 848,
     "timeMonth": 909,
     "timeYear": 924,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 0
+    }
   },
   {
     "name": "hiveon.energy site",
@@ -139,11 +141,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiveon.net.ico",
     "slug": "pool-health",
     "status": "up",
-    "uptime": "40.51%",
+    "uptime": "40.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.98%",
-    "uptimeYear": "40.51%",
+    "uptimeMonth": "88.66%",
+    "uptimeYear": "40.68%",
     "time": 205,
     "timeDay": 105,
     "timeWeek": 142,
@@ -250,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-24": 34,
+      "2025-04-24": 334,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
