@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 351,
+      "2025-05-03": 359,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
@@ -111,19 +111,19 @@
     "url": "https://hiveon.com",
     "icon": "https://icons.duckduckgo.com/ip3/hiveon.com.ico",
     "slug": "hiveon-com-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 901,
-    "timeDay": 482,
-    "timeWeek": 792,
-    "timeMonth": 892,
-    "timeYear": 901,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 906,
+    "timeDay": 723,
+    "timeWeek": 838,
+    "timeMonth": 901,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2025-05-03": 0
+      "2025-05-03": 7
     }
   },
   {
@@ -261,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 351,
+      "2025-05-03": 359,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
