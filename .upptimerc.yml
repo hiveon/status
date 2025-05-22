@@ -3,12 +3,8 @@ owner: hiveon
 repo: status
 
 sites:
-  - name: hiveon.net site
+  - name: hiveon.net Website
     url: https://hiveon.net
-  - name: hiveon.com site
-    url: https://hiveon.com
-  - name: hiveon.energy site
-    url: https://hiveon.energy
   - name: FCR
     url: https://status-proxy.o11y.hiveon.net/status/fcr
   - name: Automation
