@@ -3,57 +3,33 @@ owner: hiveon
 repo: status
 
 sites:
-  - name: Hiveos Farm
-    url: https://the.hiveos.farm
-  - name: the.hiveos.farm API
-    url: https://the.hiveos.farm/api/oauth/userinfo
-    headers:
-      - "Authorization: Bearer $IDP_TOKEN"
-      - "Content-Type: application/json"
   - name: hiveon.net site
     url: https://hiveon.net
   - name: hiveon.com site
     url: https://hiveon.com
   - name: hiveon.energy site
     url: https://hiveon.energy
-  - name: Pool Health
-    url: https://hiveon.net/api/v1/pool/health
-  - name: btc.hiveon.com:8888
-    check: "tcp-ping"
-    url: btc.hiveon.com
-    port: 8888
-  - name: btc.hiveon.com:4444
-    check: "tcp-ping"
-    url: btc.hiveon.com
-    port: 4444
-  - name: btc.hiveon.com:20443
-    check: "tcp-ping"
-    url: btc.hiveon.com
-    port: 20443
-  - name: rvn.hiveon.com:8888
-    check: "tcp-ping"
-    url: rvn.hiveon.com
-    port: 8888
-  - name: rvn.hiveon.com:9999
-    check: "tcp-ping"
-    url: rvn.hiveon.com
-    port: 9999
-  - name: rvn.hiveon.com:7777
-    check: "tcp-ping"
-    url: rvn.hiveon.com
-    port: 7777
-  - name: etc.hiveon.com:8888
-    check: "tcp-ping"
-    url: etc.hiveon.com
-    port: 8888
-  - name: etc.hiveon.com:4444
-    check: "tcp-ping"
-    url: etc.hiveon.com
-    port: 4444
-  - name: etc.hiveon.com:20443
-    check: "tcp-ping"
-    url: etc.hiveon.com
-    port: 20443
+  - name: FCR
+    url: https://status-proxy.o11y.hiveon.net/status/fcr
+  - name: Automation
+    url: https://status-proxy.o11y.hiveon.net/status/automation
+  - name: Pool
+    url: https://status-proxy.o11y.hiveon.net/status/pool
+  - name: Warehouse
+    url: https://status-proxy.o11y.hiveon.net/status/warehouse
+  - name: Hiveon OS
+    url: https://status-proxy.o11y.hiveon.net/status/hiveon_os
+  - name: Machine OS
+    url: https://status-proxy.o11y.hiveon.net/status/machine_os
+  - name: IDP
+    url: https://status-proxy.o11y.hiveon.net/status/idp
+  - name: Analytics
+    url: https://status-proxy.o11y.hiveon.net/status/analytics
+  - name: Reports
+    url: https://status-proxy.o11y.hiveon.net/status/reports
+  - name: Energy Price Control
+    url: https://status-proxy.o11y.hiveon.net/status/energy_price_control
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
