@@ -88,7 +88,7 @@
     "timeMonth": 192,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-05-22": 519
+      "2025-05-22": 527
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-05-22": 519
+      "2025-05-22": 527
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://status-proxy.o11y.hiveon.net/status/machine_os",
     "icon": "https://icons.duckduckgo.com/ip3/status-proxy.o11y.hiveon.net.ico",
     "slug": "machine-os",
-    "status": "down",
-    "uptime": "95.33%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "95.33%",
-    "time": 183,
-    "timeDay": 183,
-    "timeWeek": 183,
-    "timeMonth": 183,
-    "timeYear": 183,
+    "status": "up",
+    "uptime": "94.07%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "94.07%",
+    "uptimeMonth": "94.07%",
+    "uptimeYear": "94.07%",
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-05-22": 24
+      "2025-05-22": 31
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 206,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2025-05-22": 519
+      "2025-05-22": 526
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-05-22": 519
+      "2025-05-22": 526
     }
   },
   {
