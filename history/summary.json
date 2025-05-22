@@ -1,58 +1,20 @@
 [
   {
-    "name": "hiveon.net site",
+    "name": "hiveon.net Website",
     "url": "https://hiveon.net",
     "icon": "https://icons.duckduckgo.com/ip3/hiveon.net.ico",
-    "slug": "hiveon-net-site",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 356,
-    "timeDay": 283,
-    "timeWeek": 343,
-    "timeMonth": 351,
-    "timeYear": 356,
-    "dailyMinutesDown": {
-      "2025-04-01": 32
-    }
-  },
-  {
-    "name": "hiveon.com site",
-    "url": "https://hiveon.com",
-    "icon": "https://icons.duckduckgo.com/ip3/hiveon.com.ico",
-    "slug": "hiveon-com-site",
+    "slug": "hiveon-net-website",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 895,
-    "timeWeek": 1015,
-    "timeMonth": 900,
-    "timeYear": 917,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "hiveon.energy site",
-    "url": "https://hiveon.energy",
-    "icon": "https://icons.duckduckgo.com/ip3/hiveon.energy.ico",
-    "slug": "hiveon-energy-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 203,
-    "timeWeek": 202,
-    "timeMonth": 283,
-    "timeYear": 288,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
@@ -115,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-proxy.o11y.hiveon.net.ico",
     "slug": "warehouse",
     "status": "up",
-    "uptime": "1.93%",
-    "uptimeDay": "1.93%",
-    "uptimeWeek": "1.93%",
-    "uptimeMonth": "1.93%",
-    "uptimeYear": "1.93%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-22": 0
+      "2025-05-22": 3
     }
   },
   {
@@ -135,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-proxy.o11y.hiveon.net.ico",
     "slug": "hiveon-os",
     "status": "up",
-    "uptime": "2.62%",
-    "uptimeDay": "2.62%",
-    "uptimeWeek": "2.62%",
-    "uptimeMonth": "2.62%",
-    "uptimeYear": "2.62%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-22": 0
+      "2025-05-22": 3
     }
   },
   {
@@ -173,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-proxy.o11y.hiveon.net.ico",
     "slug": "idp",
     "status": "up",
-    "uptime": "3.63%",
-    "uptimeDay": "3.63%",
-    "uptimeWeek": "3.63%",
-    "uptimeMonth": "3.63%",
-    "uptimeYear": "3.63%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-22": 0
+      "2025-05-22": 3
     }
   },
   {
@@ -222,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-22": 0
+      "2025-05-22": 3
     }
   },
   {
