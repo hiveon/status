@@ -22,19 +22,19 @@
     "url": "https://status-proxy.o11y.hiveon.net/status/fcr",
     "icon": "https://icons.duckduckgo.com/ip3/status-proxy.o11y.hiveon.net.ico",
     "slug": "fcr",
-    "status": "down",
-    "uptime": "87.03%",
-    "uptimeDay": "87.03%",
-    "uptimeWeek": "87.03%",
-    "uptimeMonth": "87.03%",
-    "uptimeYear": "87.03%",
-    "time": 541,
-    "timeDay": 541,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "status": "up",
+    "uptime": "83.85%",
+    "uptimeDay": "83.85%",
+    "uptimeWeek": "83.85%",
+    "uptimeMonth": "83.85%",
+    "uptimeYear": "83.85%",
+    "time": 530,
+    "timeDay": 530,
+    "timeWeek": 530,
+    "timeMonth": 530,
+    "timeYear": 530,
     "dailyMinutesDown": {
-      "2025-05-23": 145
+      "2025-05-23": 187
     }
   },
   {
@@ -60,18 +60,20 @@
     "url": "https://status-proxy.o11y.hiveon.net/status/pool",
     "icon": "https://icons.duckduckgo.com/ip3/status-proxy.o11y.hiveon.net.ico",
     "slug": "pool",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2025-05-23": 0
+    }
   },
   {
     "name": "Warehouse",
@@ -90,7 +92,7 @@
     "timeMonth": 180,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-05-23": 530,
+      "2025-05-23": 572,
       "2025-05-22": 586
     }
   },
@@ -111,7 +113,7 @@
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-05-23": 530,
+      "2025-05-23": 572,
       "2025-05-22": 586
     }
   },
@@ -121,18 +123,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-proxy.o11y.hiveon.net.ico",
     "slug": "machine-os",
     "status": "up",
-    "uptime": "95.16%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "95.16%",
-    "uptimeYear": "95.16%",
+    "uptime": "96.27%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "96.27%",
     "time": 179,
     "timeDay": 179,
     "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-05-23": 30,
+      "2025-05-23": 19,
       "2025-05-22": 24
     }
   },
@@ -153,7 +155,7 @@
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-05-23": 530,
+      "2025-05-23": 572,
       "2025-05-22": 586
     }
   },
@@ -192,7 +194,7 @@
     "timeMonth": 181,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-05-23": 530,
+      "2025-05-23": 572,
       "2025-05-22": 586
     }
   },
