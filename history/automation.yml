@@ -1,7 +1,7 @@
 url: https://status-proxy.o11y.hiveon.net/status/automation
-status: down
-code: 503
-responseTime: 170
-lastUpdated: 2025-05-24T05:59:42.548Z
+status: up
+code: 200
+responseTime: 239
+lastUpdated: 2025-05-24T06:10:08.024Z
 startTime: 2025-05-22T14:13:45.197Z
 generator: Upptime <https://github.com/upptime/upptime>
