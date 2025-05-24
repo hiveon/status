@@ -1,7 +1,7 @@
 url: https://status-proxy.o11y.hiveon.net/status/energy_price_control
-status: up
-code: 200
-responseTime: 204
-lastUpdated: 2025-05-23T23:04:43.840Z
+status: down
+code: 503
+responseTime: 168
+lastUpdated: 2025-05-24T05:59:55.091Z
 startTime: 2025-05-22T14:13:55.940Z
 generator: Upptime <https://github.com/upptime/upptime>
