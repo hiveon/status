@@ -1,7 +1,7 @@
 url: https://status-proxy.o11y.hiveon.net/status/pool
-status: down
-code: 500
-responseTime: 231
-lastUpdated: 2025-06-01T06:42:13.394Z
+status: up
+code: 200
+responseTime: 170
+lastUpdated: 2025-06-01T06:51:44.191Z
 startTime: 2025-05-22T14:13:45.733Z
 generator: Upptime <https://github.com/upptime/upptime>
