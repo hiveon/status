@@ -1,7 +1,7 @@
 url: https://status-proxy.o11y.hiveon.net/status/fcr
-status: up
-code: 200
-responseTime: 709
-lastUpdated: 2025-06-03T23:04:34.396Z
+status: down
+code: 500
+responseTime: 518
+lastUpdated: 2025-06-04T12:52:09.729Z
 startTime: 2025-05-22T14:13:44.385Z
 generator: Upptime <https://github.com/upptime/upptime>
