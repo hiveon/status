@@ -1,7 +1,7 @@
 url: https://status-proxy.o11y.hiveon.net/status/warehouse
-status: down
-code: 500
-responseTime: 217
-lastUpdated: 2025-06-05T13:10:46.106Z
+status: up
+code: 200
+responseTime: 205
+lastUpdated: 2025-06-05T13:25:57.672Z
 startTime: 2025-05-22T14:13:46.243Z
 generator: Upptime <https://github.com/upptime/upptime>
