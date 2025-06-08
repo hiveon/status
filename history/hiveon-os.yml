@@ -1,7 +1,7 @@
 url: https://status-proxy.o11y.hiveon.net/status/hiveon_os
-status: up
-code: 200
-responseTime: 283
-lastUpdated: 2025-06-08T12:07:15.883Z
+status: down
+code: 500
+responseTime: 282
+lastUpdated: 2025-06-08T16:43:21.872Z
 startTime: 2025-05-22T14:13:48.527Z
 generator: Upptime <https://github.com/upptime/upptime>
